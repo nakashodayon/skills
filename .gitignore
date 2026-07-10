@@ -1,0 +1,8 @@
+# このリポジトリで共有するのは、README、skills、エージェント向け運用指示だけです。
+*
+
+!.gitignore
+!README.md
+!AGENTS.md
+!skills/
+!skills/**
